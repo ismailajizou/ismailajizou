@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Ismail Ajizou😃
+#### I am a full stack developer
+I learned programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started learning frontend using HTML, CSS and JS then I decided to learn backend and build my dream projects .
 
-<!--
-**Ismail24A/Ismail24A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / JS / REACT / PYTHON / NODE JS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning REACT NATIVE 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ismail24A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ismail-ajizou-278837202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ismail.ajizou)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail24A&show_icons=true)  
+
