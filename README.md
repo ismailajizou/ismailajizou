@@ -17,3 +17,7 @@ Languags and tools:
 <a href="https://github.com/Ismail24A/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Ismail24A&show_icons=true&theme=dark" align='center' /> 
 </a>
+
+<a href="https://github.com/Ismail24A/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align='center' /> 
+</a>
