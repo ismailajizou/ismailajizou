@@ -2,8 +2,13 @@
 ### I am a full stack developer
 I learned programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started learning frontend using HTML, CSS and JS then I decided to learn backend and build my dream projects .
 
-Skills: HTML / CSS / JS / REACT / PYTHON / NODE JS
-
+Languags and tools:
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='20'>] HTML
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='20'>] CSS
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='20'>] JAVASCRIPT
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width='20'>] REACT
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width='20'>] NODE JS
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width='20'>] PYTHON
 - 🌱 I’m currently learning REACT NATIVE 
 
 
