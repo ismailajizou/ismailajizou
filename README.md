@@ -20,5 +20,5 @@ Languags and tools:
 </a>
 
 <a href="https://github.com/Ismail24A/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align='center' /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail24A&layout=compact&theme=dark" align='center' /> 
 </a>
