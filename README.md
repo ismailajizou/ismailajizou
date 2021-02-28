@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ismail Ajizou😃
-#### I am a full stack developer
+## Hi there 👋, my name is Ismail Ajizou😃
+### I am a full stack developer
 I learned programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started learning frontend using HTML, CSS and JS then I decided to learn backend and build my dream projects .
 
 Skills: HTML / CSS / JS / REACT / PYTHON / NODE JS
