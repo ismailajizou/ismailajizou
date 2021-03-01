@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Ismail Ajizou😃
+## Hi there 👋, my name is <a href='https://github.com/ismailajizou'>Ismail</a>😃
 ### I am a full stack developer
 
 I started learning programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started with frontend using HTML, CSS, JS and react. 
