@@ -1,7 +1,7 @@
 <img src="./assets/hero-image.svg">
 
 <div align="center">
-<font size="5"> A full stack web developer</font>
+<h4> A full stack web developer</h4>
 </div>
 
 <p>I started learning programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started with frontend using HTML, CSS, JS and react. 
