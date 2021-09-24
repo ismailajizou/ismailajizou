@@ -1,13 +1,13 @@
 <img src="./assets/hero-image.svg">
 
 <div align="center">
-<span style="font-size:larger;"> A full stack web developer</span>
+<font size="5"> A full stack web developer</font>
 </div>
 
 <p>I started learning programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started with frontend using HTML, CSS, JS and react. 
 Then I decided to learn backend using nodejs and express to build my dream projects .</p>
 
-<span style="font-size:larger;">🎯 Languags and tools:</span>
+<font size="5">🎯 Languags and tools:</font>
 
 <div align='center'>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='30'>
@@ -22,8 +22,11 @@ Then I decided to learn backend using nodejs and express to build my dream proje
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" width='30'>
 </div>
 <br>
-<span style="font-size:larger;">🌱 I’m currently learning:<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width='30'> Java</span>
+<font size="5">🌱 I’m currently learning:<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width='30'> Java</font>
 
+<br>
+<br>
+<br>
 <div align='center'>
 <a href="https://github.com/ismailajizou/github-readme-stats" style='margin: 20px;'>
   <img src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula" align='center' /> 
