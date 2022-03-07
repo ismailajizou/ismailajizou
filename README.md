@@ -7,7 +7,7 @@
 <p>I started learning programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started with frontend using HTML, CSS, JS and react. 
 Then I decided to learn backend using nodejs and express to build my dream projects .</p>
 
-<h4>🎯 Languags and tools:</h4>
+<h4>🎯 Languages & tools:</h4>
 
 <div align='center'>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='30'>
