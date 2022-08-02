@@ -24,7 +24,7 @@ Then I decided to learn backend using nodejs and express to build my dream proje
 
 <br>
 
-<h4>🌱 I’m currently learning:<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width='30'> Java</h4>
+<h4>🌱 I’m currently learning: Next.js</h4>
 
 <br>
 <br>
