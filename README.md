@@ -36,7 +36,7 @@ Then I decided to learn backend using nodejs and express to build my dream proje
 <a href="https://github.com/ismailajizou/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailajizou&layout=compact&theme=dracula" align='center' /> 
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou&theme=radical"/>
 </div>
 
 <br>
