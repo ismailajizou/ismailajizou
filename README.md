@@ -30,17 +30,17 @@ Then I decided to learn backend using nodejs and express to build my dream proje
 <br>
 
 <div align='center'>
-<a href="https://github.com/ismailajizou/github-readme-stats" style='margin: 20px;'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula" align='center' /> 
+<a href="https://github.com/ismailajizou/github-readme-stats" style='margin: 30px;'>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula" /> 
 </a>
-<a href="https://github.com/ismailajizou/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailajizou&layout=compact&theme=dracula" align='center' /> 
+<a href="https://github.com/ismailajizou/github-readme-stats" style='margin: 30px;'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailajizou&layout=compact&theme=dracula"/> 
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou&theme=radical" style='margin: 30px;'/>
 </div>
 
 <br>
-<div align='center' style='margin-top: 30px;'>
+<div align='center' style='margin: 2rem;'>
 <a href="https://github.com/ismailajizou"><img src='./assets/github.png'></a>
 <a href="https://www.linkedin.com/in/ismail-ajizou-278837202"><img src='./assets/linkedin.png'></a>
 <a href="https://www.facebook.com/ismail.ajizou"><img src='./assets/facebook.png'></a>
