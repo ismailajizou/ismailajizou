@@ -30,12 +30,10 @@ Then I decided to learn backend using nodejs and express to build my dream proje
 <br>
 
 <div align='center'>
-<a href="https://github.com/ismailajizou/github-readme-stats" style='margin: 30px;'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula" /> 
-</a>
-<a href="https://github.com/ismailajizou/github-readme-stats" style='margin: 30px;'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailajizou&layout=compact&theme=dracula"/> 
-</a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula" style='margin: 30px;' /> 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailajizou&layout=compact&theme=dracula" style='margin: 30px;' /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou&theme=radical" style='margin: 30px;'/>
 </div>
 
