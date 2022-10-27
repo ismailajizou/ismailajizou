@@ -4,8 +4,7 @@
 <h2>Full stack web developer</h2>
 </div>
 
-<p>I started learning programming when I was 15 yo, I liked the way computers work and I found them interesting, so I started with frontend using HTML, CSS, JS and react. 
-Then I decided to learn backend using nodejs and express to build my dream projects .</p>
+<p>Hi 👋! My name is Ismail AJIZOU, ambitious, detail-oriented and fast learner full stack web developer, with 3 years of experience in JavaScript & React.js. I used many programming languages and technologies such as Next.js, Typescript, Python, Django, Laravel, MySQL to build cool work and side projects. Eager to learn new things and improve my skillset.</p>
 
 <h4>🎯 Languages & tools:</h4>
 
@@ -28,6 +27,7 @@ Then I decided to learn backend using nodejs and express to build my dream proje
 <br>
 <br>
 <br>
+
 
 <div align='center'>
 
