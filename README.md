@@ -4,50 +4,33 @@
 <h2>Full stack web developer</h2>
 </div>
 
-<p>Hi 👋! My name is Ismail AJIZOU, ambitious, detail-oriented and fast learner full stack web developer, with 3 years of experience in JavaScript & React.js. I used many programming languages and technologies such as Next.js, Typescript, Python, Django, Laravel, MySQL to build cool work and side projects. Eager to learn new things and improve my skillset.</p>
+<h3 align="center">Hi 👋! My name is Ismail AJIZOU, and I'm an ambitious, detail-oriented, and fast learner full-stack web developer with 5 years of experience in JavaScript and React.js. I have worked with various programming languages and technologies, including Next.js, TypeScript, Python, Django, Laravel, and MySQL, to build cool work and side projects. I'm always eager to learn new things and improve my skillset.</h3>
 
-<h4>🎯 Languages & tools:</h4>
+- 🔭 I’m currently working as a **Full Stack Web Developer & MERN Stack Instructor**
 
-<div align='center'>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</div>
+- 👨‍💻 All of my projects are available at [https://ismail-ajizou.com](https://ismail-ajizou.com)
 
-<br>
-<br>
-<br>
+- 💬 Ask me about **ReactJS, Express, Next.js**
 
+- 📫 How to reach me: **ismailajizou1@gmail.com**
 
-<div align='center'>
+- 📄 Know about my experiences: [https://ismail-ajizou.com/resume/en.pdf](https://ismail-ajizou.com/resume/en.pdf)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula" style='margin: 30px;' /> 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailajizou&layout=compact&theme=dracula" style='margin: 30px;' /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou&theme=radical" style='margin: 30px;'/>
-</div>
-
-<br>
-<div align='center' style='margin: 2rem;'>
-<a href="https://github.com/ismailajizou"><img src='./assets/github.png'></a>
-<a href="https://www.linkedin.com/in/ismail-ajizou-278837202"><img src='./assets/linkedin.png'></a>
-<a href="https://www.facebook.com/ismail.ajizou"><img src='./assets/facebook.png'></a>
-<a href="mailto: ismailajizoumo@gmail.com"><img src='./assets/mail.png'></a>
-</div>
-
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://visitor-badge.glitch.me/">
-    <img align="center" src="https://page-views.glitch.me/badge?page_id=ismailajizou.ismailajizou">
-  </a>
+<a href="https://linkedin.com/in/ismail-ajizou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail-ajizou" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15290380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15290380" height="30" width="40" /></a>
 </p>
-<img src="./assets/footer.svg">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailajizou&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ismailajizou" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailajizou&show_icons=true&theme=dracula&locale=en" alt="ismailajizou" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailajizou&theme=dark" alt="ismailajizou" /></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailajizou&label=Profile%20views&color=0e75b6&style=plastic" alt="ismailajizou" /> </p>
